@@ -1,6 +1,6 @@
 # ChronusArtifact
 
-# Artifact for ACM SoCC '21
+## Artifact for ACM SoCC '21
 [https://dl.acm.org/doi/10.1145/3472883.3486978](https://dl.acm.org/doi/10.1145/3472883.3486978)
 
 This repository contains the artifact for the ACM SoCC '21 paper "*Chronus: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs*". It includes following 2 parts:
@@ -9,15 +9,13 @@ This repository contains the artifact for the ACM SoCC '21 paper "*Chronus: A No
 
 + `code`: Python Implementation of Chronus.
 
-# Helios Trace 
+## Trace We Use
+Helios traces (SenseTime) download from [HeliosData](https://github.com/S-Lab-System-Group/HeliosData). 
 
-Helios traces download from [HeliosData](https://github.com/S-Lab-System-Group/HeliosData).
-
-# Philly Trace 
-Philly traces download from [philly-traces](https://github.com/msr-fiddle/philly-traces). 
+Philly traces (Microsoft) download from [philly-traces](https://github.com/msr-fiddle/philly-traces). 
 
 
-# Citation 
+## Citation 
 If you use this code or survey in your research, please cite this project.
 
 ```
