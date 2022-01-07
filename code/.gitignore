@@ -9,9 +9,12 @@ gandiva*.csv
 time-aware*.csv
 result/*
 *png
-data/data
 .vscode/
-data/trace_job_*.csv
+
+results/*
+run_old/
+
+
 results/*
 run_old/
 
