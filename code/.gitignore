@@ -11,11 +11,10 @@ result/*
 *png
 data/data
 .vscode/
-data/philly*
 data/trace_job_*.csv
 results/*
 run_old/
-data/exp/*
+
 
 test_gittins.py
 rank*
